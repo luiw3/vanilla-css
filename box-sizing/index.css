@@ -1,0 +1,17 @@
+div{
+    background-color: red;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+
+    width: 500px;
+    height: 500px;
+
+    padding: 100px;
+
+    box-sizing: border-box;
+    
+    border-top: 1px;
+    border-style: dotted;
+    border-color: rgba(0,0,0, 0.8);
+}
