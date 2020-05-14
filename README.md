@@ -5,6 +5,7 @@
  - [X] keyframe 
  - [X] transition
  - [X] translate
+ - [ ] display
  - [ ] top, bottom, left, right
  - [ ] line-height
  - [ ] responsive web pages
