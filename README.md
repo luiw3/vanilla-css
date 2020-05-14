@@ -1,3 +1,12 @@
-## Estudo de css puro
+## Estudo de css puro / Vanilla css study
 
-## Vanilla css study
+ - [X] box-sizing
+ - [X] animation
+ - [X] keyframe 
+ - [X] transition
+ - [ ] translate
+ - [ ] top, bottom, left, right
+ - [ ] line-height
+ - [ ] responsive web pages
+ - [ ] mobile first
+ - [ ] containers / wrappers
