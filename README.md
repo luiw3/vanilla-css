@@ -4,7 +4,7 @@
  - [X] animation
  - [X] keyframe 
  - [X] transition
- - [ ] translate
+ - [X] translate
  - [ ] top, bottom, left, right
  - [ ] line-height
  - [ ] responsive web pages
