@@ -8,6 +8,8 @@
  - [X] display
  - [X] position + top, bottom, left, right
  - [ ] line-height
- - [ ] responsive web pages
- - [ ] mobile first
+ - [ ] responsive web pages + mobile first
  - [ ] containers / wrappers
+
+
+## - [ ] Criar projeto aplicando conhecimentos adquiridos / Create a project using the acquired knowledge
