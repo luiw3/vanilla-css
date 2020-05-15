@@ -1,0 +1,7 @@
+- Position changes the document flow using the position context as the starting point
+
+- Position Absolute: removes the element from the document flow, in this case the top,bottom,right and left properties refeers to how much space between the element and the context
+
+- Position Relative: the element continues in the document flow but with top, bottom, right and left properties determines how much the element shold move in relation to the element
+
+- Position Fixed: same with absolute but i doesnt use the position context instead it uses the viewport
