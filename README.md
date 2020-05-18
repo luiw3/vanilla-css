@@ -10,6 +10,7 @@
  - [ ] line-height
  - [ ] responsive web pages + mobile first
  - [ ] containers / wrappers
+ - [ ] flex-box/grid
 
 
 ## - [ ] Criar projeto aplicando conhecimentos adquiridos / Create a project using the acquired knowledge
