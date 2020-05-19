@@ -1,0 +1,24 @@
+Conceitos de responsividade:
+Definir max-width fixa e width fluida (px e % respectivamente);
+Breakpoints podem ser observados no developer tools (não sabia disso :O)
+
+
+Unidades de medida:
+
+# Tamanho de elementos
+ ## Fixas:
+  -- Pixels; px
+
+ ## Fluidas:
+  -- Porcentagem; %
+  -- Viewport Heigth; vh
+  -- Viewport Width; vw
+
+# Tamanho de texto
+ ## Fixos:
+   1px = 0.75pt
+   16px = 12pt
+
+ ## Fluidos
+  -- em = multiplicado pelo pai
+  -- rem = multiplicado pelo root
