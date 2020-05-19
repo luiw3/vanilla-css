@@ -7,9 +7,9 @@
  - [X] translate
  - [X] display
  - [X] position + top, bottom, left, right
- - [ ] line-height
- - [ ] responsive web pages + mobile first
- - [ ] containers / wrappers
+ - [X] responsive web pages + mobile first
+ - [X] line-height
+ - [X] containers / wrappers
  - [ ] flex-box/grid
 
 
